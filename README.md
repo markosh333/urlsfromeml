@@ -1,7 +1,7 @@
 # urlsfromeml
 Extract URLs from an EML file
 
-Currently under development :D
+Currently under development, so It might work only in specific cases?
 
 # Usage
 
